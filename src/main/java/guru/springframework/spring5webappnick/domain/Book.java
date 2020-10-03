@@ -1,6 +1,5 @@
 package guru.springframework.spring5webappnick.domain;
 
-import java.util.Objects;
 import java.util.Set;
 
 import javax.persistence.Entity;
