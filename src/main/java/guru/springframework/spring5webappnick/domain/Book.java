@@ -83,7 +83,6 @@ public class Book {
 		return "Book [id='" + id + '\'' + 
 			   ", title='" + title + '\'' +
 			   ", isbn='" + isbn + '\'' +
-			   ", authors='" + authors + '\'' +
 			   "]";
 	}
 
